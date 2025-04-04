@@ -1,1 +1,1 @@
-# MCP-Server
+# MCP-Demo
